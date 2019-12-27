@@ -1,6 +1,6 @@
 # vue-ts-elementui 后台课程管理系统
 ## 相关技术Vue-cli Axios Vue-Router Vuex TypaScript ElementUI 
-
+### 接口设置 管理员user:admin pwd:123456
 ## 项目展示
 ### 登陆页
 ![登陆页](https://github.com/HahaLhh/Ts-Vue-ElementUI/blob/master/show/login.png)
